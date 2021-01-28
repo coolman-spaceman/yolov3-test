@@ -6,4 +6,4 @@ put your weights file in this folder, and give the path name in yolov3-test.py, 
 
 congratulations, you have successfully trained and tested yolo!!  
 
-Credits:== Pysource (concepts and code)
+Credits:== Pysource (concepts and code) Link:   https://www.youtube.com/watch?v=_FNfRtXEbr4
